@@ -2,9 +2,9 @@
 
 # Eduardo Sánchez
 
-**Backend & Full Stack Developer** · ERP · APIs · SaaS · Arquitectura de software
+**Backend & Full Stack Developer** <br /> 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&pause=1200&center=true&vCenter=true&width=760&lines=Construyo+backend+robusto+y+productos+web;ERP+%7C+APIs+%7C+Automatizaci%C3%B3n;PHP+%7C+Laravel+%7C+Node.js+%7C+React" alt="Animación con especialidades de Eduardo Torres" />
+ERP · APIs · SaaS · Arquitectura de software
 
 <br />
 
@@ -16,15 +16,11 @@
 
 ---
 
-<h2 align="center">Hola, soy Eduardo 👋</h2>
-
 <p align="center">Desarrollador Full Stack con más de 4 años de experiencia creando aplicaciones web, sistemas empresariales ERP e integraciones backend.</p>
 
 <p align="center">Trabajo principalmente en backend, arquitectura de software, APIs, automatización de procesos y productos SaaS. Mi enfoque combina criterio técnico, visión de negocio y una experiencia de usuario simple.</p>
 
 ---
-
-<h2 align="center">Bento overview</h2>
 
 <table align="center">
   <tr>
@@ -122,7 +118,7 @@
 
 <div align="center">
 
-### Construyendo software escalable, un commit a la vez.
+### Construyendo software, un commit a la vez.
 
 <a href="https://www.linkedin.com/in/eduardostorres"><img src="https://img.shields.io/badge/Conversemos_en_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Conversemos en LinkedIn" /></a>
 
