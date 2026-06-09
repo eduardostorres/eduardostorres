@@ -16,33 +16,33 @@
 
 ---
 
-## Hola, soy Eduardo 👋
+<h2 align="center">Hola, soy Eduardo 👋</h2>
 
-Desarrollador Full Stack con más de 4 años de experiencia creando aplicaciones web, sistemas empresariales ERP e integraciones backend.
+<p align="center">Desarrollador Full Stack con más de 4 años de experiencia creando aplicaciones web, sistemas empresariales ERP e integraciones backend.</p>
 
-Trabajo principalmente en backend, arquitectura de software, APIs, automatización de procesos y productos SaaS. Mi enfoque combina criterio técnico, visión de negocio y una experiencia de usuario simple.
+<p align="center">Trabajo principalmente en backend, arquitectura de software, APIs, automatización de procesos y productos SaaS. Mi enfoque combina criterio técnico, visión de negocio y una experiencia de usuario simple.</p>
 
 ---
 
-## Bento overview
+<h2 align="center">Bento overview</h2>
 
-<table>
+<table align="center">
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="center">
       <h3>🚀 Lo que construyo</h3>
       <p>Sistemas ERP, APIs REST/SOAP, integraciones con servicios externos, automatizaciones y plataformas SaaS para procesos empresariales críticos.</p>
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="center">
       <h3>🧭 Cómo trabajo</h3>
       <p>Diseño soluciones mantenibles, documentadas y alineadas con negocio, priorizando arquitectura limpia, seguridad y escalabilidad.</p>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="center">
       <h3>🧩 Especialidades</h3>
       <p>Backend, full stack, bases de datos, autenticación, autorización, diseño de sistemas, MVC, Clean Code, SOLID y patrones de diseño.</p>
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="center">
       <h3>🎯 Ahora mismo</h3>
       <p>Profundizando en arquitectura de software, AWS, Docker, sistemas distribuidos e IA aplicada a productos empresariales.</p>
     </td>
@@ -51,11 +51,11 @@ Trabajo principalmente en backend, arquitectura de software, APIs, automatizaci�
 
 ---
 
-## Stack tecnológico
+<h2 align="center">Stack tecnológico</h2>
 
-<table>
+<table align="center">
   <tr>
-    <td valign="top" width="33%">
+    <td valign="top" width="33%" align="center">
       <h3>Backend</h3>
       <p>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP" title="PHP" />
@@ -66,7 +66,7 @@ Trabajo principalmente en backend, arquitectura de software, APIs, automatizaci�
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" title="Python" />
       </p>
     </td>
-    <td valign="top" width="33%">
+    <td valign="top" width="33%" align="center">
       <h3>Frontend</h3>
       <p>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" title="JavaScript" />
@@ -77,7 +77,7 @@ Trabajo principalmente en backend, arquitectura de software, APIs, automatizaci�
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="Bootstrap" title="Bootstrap" />
       </p>
     </td>
-    <td valign="top" width="33%">
+    <td valign="top" width="33%" align="center">
       <h3>Data & Tools</h3>
       <p>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" title="MySQL" />
@@ -93,28 +93,28 @@ Trabajo principalmente en backend, arquitectura de software, APIs, automatizaci�
 
 ---
 
-## Áreas de conocimiento
+<h2 align="center">Áreas de conocimiento</h2>
 
-<table>
+<table align="center">
   <tr>
-    <td>Arquitectura de software</td>
-    <td>Diseño de sistemas</td>
-    <td>Desarrollo ERP</td>
+    <td align="center">Arquitectura de software</td>
+    <td align="center">Diseño de sistemas</td>
+    <td align="center">Desarrollo ERP</td>
   </tr>
   <tr>
-    <td>APIs REST</td>
-    <td>Servicios SOAP</td>
-    <td>Automatización</td>
+    <td align="center">APIs REST</td>
+    <td align="center">Servicios SOAP</td>
+    <td align="center">Automatización</td>
   </tr>
   <tr>
-    <td>Autenticación</td>
-    <td>Autorización</td>
-    <td>Bases de datos</td>
+    <td align="center">Autenticación</td>
+    <td align="center">Autorización</td>
+    <td align="center">Bases de datos</td>
   </tr>
   <tr>
-    <td>Clean Code</td>
-    <td>SOLID</td>
-    <td>Metodologías ágiles</td>
+    <td align="center">Clean Code</td>
+    <td align="center">SOLID</td>
+    <td align="center">Metodologías ágiles</td>
   </tr>
 </table>
 
