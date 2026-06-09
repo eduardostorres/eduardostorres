@@ -1,6 +1,6 @@
 <div align="center">
 
-# Eduardo Torres
+# Eduardo Sánchez
 
 **Backend & Full Stack Developer** · ERP · APIs · SaaS · Arquitectura de software
 
@@ -18,7 +18,7 @@
 
 ## Hola, soy Eduardo 👋
 
-Desarrollador Full Stack con más de 4 años de experiencia creando aplicaciones web, sistemas empresariales ERP e integraciones backend. Me gusta convertir procesos complejos en productos claros, mantenibles y escalables.
+Desarrollador Full Stack con más de 4 años de experiencia creando aplicaciones web, sistemas empresariales ERP e integraciones backend.
 
 Trabajo principalmente en backend, arquitectura de software, APIs, automatización de procesos y productos SaaS. Mi enfoque combina criterio técnico, visión de negocio y una experiencia de usuario simple.
 
@@ -117,28 +117,6 @@ Trabajo principalmente en backend, arquitectura de software, APIs, automatizaci�
     <td>Metodologías ágiles</td>
   </tr>
 </table>
-
----
-
-## GitHub analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=eduardostorres&show_icons=true&theme=transparent&hide_border=true&title_color=111827&text_color=374151&icon_color=0A66C2" alt="Estadísticas de GitHub de Eduardo Torres" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardostorres&layout=compact&theme=transparent&hide_border=true&title_color=111827&text_color=374151" alt="Lenguajes más usados por Eduardo Torres en GitHub" />
-
-<br />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=eduardostorres&theme=transparent&hide_border=true&ring=0A66C2&fire=0A66C2&currStreakLabel=111827" alt="Racha de contribuciones de Eduardo Torres en GitHub" />
-
-</div>
-
----
-
-## Educación
-
-**Universidad del Valle de México**<br />
-Ingeniería en Diseño de Software y Redes
 
 ---
 
