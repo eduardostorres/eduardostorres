@@ -1,6 +1,6 @@
 <div align="center">
 
-# Eduardo Sánchez
+# Eduardo S.
 
 **Backend & Full Stack Developer** <br /> 
 
