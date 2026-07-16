@@ -1,6 +1,6 @@
 <div align="center">
 
-# Eduardo S.
+# Eduardo Sebastián Sánchez Torres.
 
 **Backend & Full Stack Developer** | PHP · Laravel · CodeIgniter · MySQL · TypeScript · Astro | ERP & Fintech
 
